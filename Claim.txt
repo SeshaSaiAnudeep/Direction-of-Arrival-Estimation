@@ -1,0 +1,11 @@
+Disclaimer: 
+	This work is part of the course, CT509: Next Generation Wireless Communication Systems. Lectures can be 
+found on Yt. I ask you to go through the lectures and understand and try coding yourself.
+
+	Information provided here are according to my understanding after reading several papers on the topic. 
+Surplus knowledge can be misguiding. There might be errors in my understandings/code. Please go through the 
+literature, and try to code with your understanding.
+						
+	I also attached a document on my observations (can be right or wrong)
+
+KSSA
